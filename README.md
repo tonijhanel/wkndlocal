@@ -18,7 +18,7 @@ There is also a corresponding tutorial where you can learn how to implement a we
 ## Modules
 
 The main parts of the project are:
-
+* dispatcher module here *
 * **core**: Java bundle containing all core functionality like OSGi services, listeners or schedulers, as well as component-related Java code such as servlets or request filters.
 * **ui.apps**: contains the /apps (and /etc) parts of the project, ie JS & CSS clientlibs, components, templates, runmode specific configs as well as Hobbes-tests
 * **ui.content**: contains mutable content (not /apps) that is integral to the running of the WKND site. This include template types, templates, policies and base-line organization page and asset structures.
